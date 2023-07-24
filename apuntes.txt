@@ -1,0 +1,13 @@
+los niveles de jerarquia de la seleccion en css son de la sigueitne forma 
+
+!importat
+
+id's
+
+clases
+pseudo-clases
+atributos
+
+elementos
+pseudo-elementos
+

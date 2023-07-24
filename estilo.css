@@ -1,5 +1,16 @@
-p:hover {
+#pepe {
+
+    color: blue;
+}
+
+[rancio="siii"] {
 
     color: indigo;
 }
+
+h2 {
+
+  color: green !important; 
+}
+
 
