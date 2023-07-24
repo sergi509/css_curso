@@ -1,8 +1,4 @@
-.clase3 p span{
-    color: blue;
-}
-
-.clase3 p {
+p:hover {
 
     color: indigo;
 }
