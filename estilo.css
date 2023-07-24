@@ -1,16 +1,4 @@
-#pepe {
+.form__input--active {
 
-    color: blue;
+    color: red;
 }
-
-[rancio="siii"] {
-
-    color: indigo;
-}
-
-h2 {
-
-  color: green !important; 
-}
-
-
