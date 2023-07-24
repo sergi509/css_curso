@@ -1,4 +1,13 @@
-.form__input--active {
-
-    color: red;
+*{
+    padding: 0px;
+    margin: 0px;
 }
+
+.form {
+font-size: 25px;
+background-color: #000;
+width: 50vw;
+height: 50;
+
+}
+

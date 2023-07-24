@@ -1,3 +1,5 @@
-metodologia dem es el ir seleccionando bloques de forma que el siguiente del bloque lleva __
-y el sigueitne es un guion medio "contact-form__p-h2"
+Aqui solamente se uso el vw para de la pantalla completa darle el porcentaje que se indica 
+tambien otra cosa es que se esta utilizando la herencia de tamanio osea la caja principal 
+es la que va a indicar de que tamanio en px va a ser el em 
+
 
