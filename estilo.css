@@ -1,7 +1,9 @@
-[rancio="sii"]{
-    color:red;
-}
-
-h2 p {
+.clase3 p span{
     color: blue;
 }
+
+.clase3 p {
+
+    color: indigo;
+}
+
