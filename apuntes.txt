@@ -1,5 +1,8 @@
-Aqui solamente se uso el vw para de la pantalla completa darle el porcentaje que se indica 
-tambien otra cosa es que se esta utilizando la herencia de tamanio osea la caja principal 
-es la que va a indicar de que tamanio en px va a ser el em 
+Aqui se nos explica el concepto de box style pues tienen tres jerarquias
+content --> el contenido de la caja se puede modificar con line-height
+padding --> que es la distancia que separa al contenido de la orilla de la caja 
+border --> que basicamente es el borde de la caja 
+margin --> es la distancia que se separan las cajas 
+
 
 
