@@ -3,17 +3,37 @@
 }
 
 .form__h2 {
-font-size: 3em;
+font-size: 1em;
 font-family: 'Times new Roman';
-line-height: 1;
-font-weight: 100;
+line-height: 2;
+font-weight: bold;
 font-stretch: expanded;
 font-variant: normal;
-
+background-color: indigo;
+display: inline-block;
+padding: 100px;
+box-sizing: border-box;
+text-align: center;
 }
+
+.form__h2--activo {
+    font-size: 1em;
+    font-family: Arial;
+    line-height: 2;
+    font-weight: bold;
+    font-stretch: expanded;
+    font-variant: normal;
+    background-color:cadetblue;
+    display: inline-block;
+    padding: 100px;
+    box-sizing: border-box;
+    text-align: center;
+    }
 
 
 .form__p {
+    height: 400px; 
+    width: 800px;
     font-size: 1em;
     font-family: 'Courier New';
     line-height: 1;
@@ -22,4 +42,14 @@ font-variant: normal;
     font-variant: small-caps;
     
     }
+
+    .form__p-b {
+        font-size: 1em;
+        font-family: Arial;
+        line-height: 1;
+        font-weight: bold;
+        font-stretch: normal;
+        font-variant: small-caps;
+        
+        }
 
