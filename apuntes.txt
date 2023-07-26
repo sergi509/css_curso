@@ -1,8 +1,18 @@
-Aqui se nos explica el concepto de box style pues tienen tres jerarquias
-content --> el contenido de la caja se puede modificar con line-height
-padding --> que es la distancia que separa al contenido de la orilla de la caja 
-border --> que basicamente es el borde de la caja 
-margin --> es la distancia que se separan las cajas 
+aqui se habla de darle sombra al texto y a la caja 
+esto es con 
+box-shadow: x y degradado grosor color;
+text-shadow: x y  grosor color;
+
+tambien se menciona lo que es el poder bordear las orillas
+border-radius:2em;
+
+y el uso de border que es para asignarle el borde que 
+se le quiere dar a la caja 
+border: 3px solid blue;
+
+y el poder rotar las cosas
+transform: rotate( 360deg);
+
 
 
 
