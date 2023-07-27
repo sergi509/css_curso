@@ -1,39 +1,65 @@
 *{
-    font-family:'Times New Roman', Times, serif;
+    font-family: Arial, Times, serif;
    font-size: 30px;
    font-weight: 100;
-   margin: 0px;
+
 }
 
 div{
 
-    width: 200px;
-    height: 200px;
-    background: yellow;
     display: block;
+    background: green;
+    position: absolute;
+
+
+    
+    
+}
+div div {
+    height: 75px;
+    width: 75px;
+    background: yellow;
+}
+
+.contenedor{
+  
+    position: relative;
+    margin: 100px auto;
+    border: 1px solid red;
+    height: 450px;
+    width: 450px;
+    margin-left: 100px;
+    margin-top: 100px;
 }
 
 .caja1{
-    background-color: red;
-    top: 20px;
+    right: 0;
+    bottom: 0;
+    
 }
 
 .caja2{
-    background-color: blue;
-    position: relative;
-    top: 60px;
-    left: 20px;
-    z-index: 20;
-
+    right: 0;
+    
+    
 }
 
 .caja3{
-    background-color: indigo;
-    position: relative;
-    z-index: 10;
+    top: 0;
+
 }
 
 .caja4{
-    background-color: fuchsia;
+    bottom: 0;
+
+}
+
+.caja5{
+top: 0;
+left: 0;
+right: 0;
+bottom: 0;
+margin: auto;
+
 }
 
