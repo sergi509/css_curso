@@ -1,7 +1,6 @@
-El us de position pixed funciona para crear los menus que no se desplazan esto hace logica con el uso de position absolute de que 
-es como si fuera tranprarente y se parasara a una capa atras 
+El us de position spicky funciona para que se vaya avanzando en una pagina hasta que un punto se comporte como un pixed
 
-position: pixed;
+position: spicky;
 
 
 
