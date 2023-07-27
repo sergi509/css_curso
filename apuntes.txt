@@ -1,4 +1,7 @@
+El us de position pixed funciona para crear los menus que no se desplazan esto hace logica con el uso de position absolute de que 
+es como si fuera tranprarente y se parasara a una capa atras 
 
+position: pixed;
 
 
 
