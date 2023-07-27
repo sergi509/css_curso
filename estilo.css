@@ -6,12 +6,17 @@
 }
 
 
+div {
+    background: rgb(88, 88, 226);
+    margin: auto;
+    height: 250px;
+    width: 250px;
+    border: 2px solid black;
+    border-radius:10px;
+    box-shadow: 5px 5px 2px rgb(38, 5, 5);
+    text-shadow: 1px 1px black;
+    overflow-x: scroll;
+    overflow-y: hidden;
 
-.caja-fixed{
-    background: red;
-    position: sticky;
-    opacity: .4;
-    top: -20px;
-   
-    
 }
+
