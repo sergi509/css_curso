@@ -1,49 +1,39 @@
-.form{
-   font-size: 25px;
+*{
+    font-family:'Times New Roman', Times, serif;
+   font-size: 30px;
+   font-weight: 100;
+   margin: 0px;
 }
 
-.form__h2 {
-font-size: 1em;
-font-family: 'Times new Roman';
-line-height: 2;
-font-weight: bold;
-font-stretch: expanded;
-font-variant: normal;
-background-color: indigo;
-display: inline-block;
-padding: 100px;
-box-sizing: border-box;
-text-align: center;
-margin: 20px 10px;
-border-radius:2em;
-border: 3px solid blue;
-box-shadow: 20px 20px 15px 10px black;
-text-shadow: 2px 2px 7px black ;
-transform: rotate( 360deg);
+div{
+
+    width: 200px;
+    height: 200px;
+    background: yellow;
+    display: block;
 }
 
+.caja1{
+    background-color: red;
+    top: 20px;
+}
 
+.caja2{
+    background-color: blue;
+    position: relative;
+    top: 60px;
+    left: 20px;
+    z-index: 20;
 
+}
 
-.form__p {
-    height: 400px; 
-    width: 800px;
-    font-size: 1em;
-    font-family: 'Courier New';
-    line-height: 1;
-    font-weight: normal;
-    font-stretch: normal;
-    font-variant: small-caps;
-    
-    }
+.caja3{
+    background-color: indigo;
+    position: relative;
+    z-index: 10;
+}
 
-    .form__p-b {
-        font-size: 1em;
-        font-family: Arial;
-        line-height: 1;
-        font-weight: bold;
-        font-stretch: normal;
-        font-variant: small-caps;
-        
-        }
+.caja4{
+    background-color: fuchsia;
+}
 
