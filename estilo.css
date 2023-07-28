@@ -4,8 +4,9 @@
    font-weight: 100;
 }
 
-.texto::first-line{
+.texto::first-letter{
     color: red;
+    font-size: 2rem;
 }
 
 
